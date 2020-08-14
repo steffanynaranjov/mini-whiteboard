@@ -1,0 +1,14 @@
+header {
+    padding: 40px;
+    color: black;
+}
+
+body {
+    background-color: indianred;
+    margin: 60;
+}
+
+canvas {
+    margin: 50;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/539/715/non_2x/dashed-line-grid-paper-with-white-pattern-background-vector.jpg");
+}
